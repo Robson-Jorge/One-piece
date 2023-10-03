@@ -47,11 +47,13 @@ main .personagem .imagem{
     font-size: 48px;
     font-weight: 400;
     margin-bottom: 20px;
+    animation: fadeInDown 1.5s;
 }
 
 .conteudo .descricao {
     font-family: 'Rubik', sans-serif;
     line-height: 24px;
+    animation: fadeInLeft 1.5s;
 }
 
 .conteudo .logo{
