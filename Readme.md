@@ -1,12 +1,13 @@
 <h1 align="center">Projeto One Piece </h1> <br>
 <p align="center" id=Luffy>
-  <a href="https://robson-jorge.github.io/One-piece/" target="_Blank">
-    <img alt="Luffy" title="Luffy" src="./src/imagens/Luffy.png" width="400">
-  </a>
+<a href="https://robson-jorge.github.io/One-piece/" onclick="window.open(this.href, '_blank'); return false;">
+  <img alt="Luffy" title="Luffy" src="./src/imagens/Luffy.png" width="400">
+</a>
+
 </p>
 
-<p align="center">
-  Entre no navio dos Chapéus de Palha e explore o incrível universo de One Piece com nossos heróis...
+<p align="center" style="color:#f6d200">
+  <b>Entre no navio dos Chapéus de Palha e explore o incrível universo de One Piece com nossos heróis...
 </p>
 
 ## Índice
