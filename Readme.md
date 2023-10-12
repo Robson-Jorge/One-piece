@@ -6,8 +6,8 @@
 
 </p>
 
-<p align="center" style="color:#f6d200">
-  <b>Entre no navio dos Chapéus de Palha e explore o incrível universo de One Piece com nossos heróis...
+<p align="center">
+  Entre no navio dos Chapéus de Palha e explore o incrível universo de One Piece com nossos heróis...
 </p>
 
 ## Índice
@@ -27,10 +27,10 @@ O projeto é uma página web interativa dedicada ao fascinante mundo dos persona
 ## Visualização do projeto
 
 
-<div style="display: flex; flex-direction: column;align-items:center; gap:15px">
-  <spam>Desktop</spam>
+<div align="center">
+  <p>Desktop</p>
   <img src="./src/imagens/Design/Projeto-one-piece-desktop.gif" width=100%>
-  <spam>Mobile</spam>
+  <p>Mobile</p>
   <img src="./src/imagens/Design/Projeto-one-piece-mobile.gif" width=300>
 </div>
 
