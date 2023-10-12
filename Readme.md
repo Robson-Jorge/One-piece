@@ -1,6 +1,6 @@
 <h1 align="center">Projeto One Piece </h1> <br>
 <p align="center" id=Luffy>
-  <a href="https://robson-jorge.github.io/One-piece/">
+  <a href="https://robson-jorge.github.io/One-piece/" target="_Blank">
     <img alt="Luffy" title="Luffy" src="./src/imagens/Luffy.png" width="400">
   </a>
 </p>
@@ -26,7 +26,7 @@ O projeto é uma página web interativa dedicada ao fascinante mundo dos persona
 ## Visualização do projeto
 
 <p align="center">
-  <img src="./src/imagens/Design/Projeto-one-piece-desktop.gif" width=550>
+  <img src="./src/imagens/Design/Projeto-one-piece-desktop.gif" width=100%>
   <img src="./src/imagens/Design/Projeto-one-piece-mobile.gif" width=150>
 </p>
 
