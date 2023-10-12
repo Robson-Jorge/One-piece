@@ -26,10 +26,13 @@ O projeto é uma página web interativa dedicada ao fascinante mundo dos persona
 
 ## Visualização do projeto
 
-<p align="center">
+
+<div style="display: flex; flex-direction: column;align-items:center; gap:15px">
+  <spam>Desktop</spam>
   <img src="./src/imagens/Design/Projeto-one-piece-desktop.gif" width=100%>
-  <img src="./src/imagens/Design/Projeto-one-piece-mobile.gif" width=150>
-</p>
+  <spam>Mobile</spam>
+  <img src="./src/imagens/Design/Projeto-one-piece-mobile.gif" width=300>
+</div>
 
 [Clique em nosso capitão para ver o projeto em sua própria tela](#Luffy)
 
@@ -55,7 +58,7 @@ Se você tiver alguma pergunta, sugestão ou apenas desejar entrar em contato, e
 
 - [LinkedIn](https://www.linkedin.com/in/robson-jorge-62a12a26a/)
 - Email: [robsonsouzajorge@hotmail.com](mailto:robsonsouzajorge@hotmail.com)
-- WhatsApp: [+55 62 99260-0017]([Whatsapp](https://api.whatsapp.com/send/?phone=%2B556292600017&text&type=phone_number&app_absent=0))
+- WhatsApp: [+55 62 99260-0017](https://api.whatsapp.com/send/?phone=%2B556292600017&text&type=phone_number&app_absent=0)
 
 ### Sua Opinião Importa
 
