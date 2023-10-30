@@ -65,15 +65,15 @@ main .personagem .imagem{
 .botoes {
     position: fixed;
     top: 0;
-    right: -280px;
-    width: 280px;
+    right: -300px;
+    width: 300px;
     height: 100vh;
     display: flex;
-    flex-flow: column wrap;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 15px;
-    padding: 50px 0 50px 50px;
+    gap: 25px;
+    padding: 15vh 0 15vh 25px;
     background-color: rgba(0, 0, 0, 0.3);
     transition: .5s ease;
 }
