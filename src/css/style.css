@@ -73,7 +73,7 @@ main .personagem .imagem{
     justify-content: center;
     align-items: center;
     gap: 25px;
-    padding: 15vh 0 15vh 25px;
+    padding: 30px 0 30px 25px;
     background-color: rgba(0, 0, 0, 0.3);
     transition: .5s ease;
 }
